@@ -2,8 +2,6 @@
 
 # DysBiLSTM
 
-**A Bidirectional LSTM Framework for Automatic Dysarthric Speech Detection from Mel-Frequency Cepstral Representations**
-
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16%E2%80%932.20-orange.svg)](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-f7931e.svg)](https://scikit-learn.org/)
